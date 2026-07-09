@@ -1,4 +1,4 @@
-# Rider Retention Analysis - Garibook Data Analyst Assessment
+# Rider Retention Analysis
 
 ## Project Overview
 
