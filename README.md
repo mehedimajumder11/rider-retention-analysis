@@ -134,13 +134,15 @@ The dashboard includes:
 
 ---
 
-## Repository Contents
+## Project Workflow
 
-- SQL scripts
-- Python notebook
-- Dashboard
-- PowerPoint presentation
-- Supporting datasets
+1. Data Understanding
+2. Data Cleaning
+3. Exploratory Data Analysis (EDA) (Python)
+4. SQL Analysis
+5. Data Visualization
+6. Business Insights
+7. Recommendations
 
 ---
 
