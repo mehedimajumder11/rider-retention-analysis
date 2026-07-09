@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project was completed as part of a **Data Analyst Assessment** for **Garibook**, a Bangladesh-based ride-sharing platform.
+This project was completed as part of a **Data Analyst Assessment**.
 
 The objective was to analyze rider behavior, identify factors affecting rider retention, and provide actionable business insights using SQL and Python.
 
@@ -10,7 +10,7 @@ The objective was to analyze rider behavior, identify factors affecting rider re
 
 ## Business Problem
 
-Garibook observed changes in rider activity and wanted to understand:
+The organization observed changes in rider activity and wanted to understand:
 
 - Which riders are at risk?
 - What factors influence cancellations?
@@ -120,7 +120,7 @@ The dashboard includes:
 - Cancellation rates increased significantly when wait time exceeded **8 minutes**.
 - Customers who cancelled waited considerably longer than customers who completed trips.
 - Customer ratings declined across all rider segments from September onwards.
-- The dataset showed increasing active riders, although the business scenario mentioned declining activity.
+- The dataset showed increasing active riders.
 
 ---
 
